@@ -365,8 +365,9 @@ a:focus-visible {
     border-bottom-color: #000;
   }
 
-  /* Print URLs explicitly next to social links if needed */
-  .social-links a::after {
+  /* Print URLs explicitly next to social and projects links if needed */
+  .social-links a::after,
+  .project-link-box a::after {
     content: ' (' attr(href) ')';
     font-size: 0.9em;
     font-weight: normal;
