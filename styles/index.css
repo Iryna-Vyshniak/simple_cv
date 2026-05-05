@@ -159,6 +159,34 @@ h1 {
   letter-spacing: 0.05em;
 }
 
+.language-switcher {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.lang-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid var(--primary-text);
+  background: transparent;
+  color: var(--primary-text);
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-radius: 0.25rem;
+}
+
+.lang-btn:hover {
+  background: var(--primary-text);
+  color: white;
+}
+
+.lang-btn.active {
+  background: var(--primary-text);
+  color: white;
+}
+
 .header-bottom {
   display: flex;
   justify-content: space-between;
@@ -371,5 +399,9 @@ a:focus-visible {
     content: ' (' attr(href) ')';
     font-size: 0.9em;
     font-weight: normal;
+  }
+
+  .language-switcher {
+    display: none !important; /* Hide language switcher in print */
   }
 }
