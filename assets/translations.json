@@ -1,0 +1,114 @@
+{
+  "en": {
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "name": "Iryna Vyshniak",
+    "role": "Junior Frontend Developer",
+    "summaryHeading": "Summary",
+    "summaryText": "Junior Frontend Developer with hands-on experience building production-style web and mobile applications using React, Next.js, and modern frontend ecosystems. Skilled in component-based architecture, REST API integration, and scalable UI development using Tailwind CSS, shadcn/ui, and Radix UI. Strong background in structured execution and ownership developed through previous leadership roles and practical software engineering projects.",
+    "skillsHeading": "Technical Skills",
+    "skills": {
+      "frontend": "Frontend: React, Next.js (App Router), JavaScript (ES6+), TypeScript (basic)",
+      "ui": "UI / Styling: Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, Responsive Design",
+      "state": "State Management & Forms: Zustand, React Hook Form, Zod",
+      "backend": "Backend (Basic): Node.js, MongoDB, Mongoose, Firebase (Firestore), Appwrite",
+      "apis": "APIs & Services: REST API, Stripe, Clerk Authentication",
+      "maps": "Maps & Geo: Leaflet, React-Leaflet, TomTom Web SDK",
+      "tools": "Tools: Git, GitHub, Vite, ESLint, Prettier, Cypress (basic), Vitest (basic)"
+    },
+    "projectsHeading": "Project Experience",
+    "projects": {
+      "selfDirected": "Frontend / Fullstack Developer (Self-Directed Projects)",
+      "selfDirectedDesc": "Built and deployed 4+ production-style applications using React, Next.js, and modern frontend stacks. Designed scalable component-based architecture using reusable UI systems (shadcn/ui, Radix UI patterns). Developed full-featured applications with authentication, CRUD operations, and dynamic routing. Integrated backend services and databases including Firebase, MongoDB, and Appwrite. Implemented REST API integrations and structured client-side data flow. Built responsive, mobile-first UI systems ensuring cross-device compatibility. Implemented advanced features including maps (Leaflet + TomTom), payments (Stripe), and form validation (Zod).",
+      "realEstate": "Real Estate Platform",
+      "realEstateDesc": "Built a property listing application with Firebase Firestore backend integration. Implemented interactive geolocation maps using Leaflet and TomTom APIs. Developed reusable UI components following modern shadcn/ui design patterns. Added image galleries and media browsing using Swiper. Designed fully responsive UI optimized for mobile and desktop.",
+      "littleLingo": "LittleLingo – Mobile Learning App",
+      "littleLingoDesc": "Developed cross-platform mobile application (iOS / Android). Implemented drag-and-drop interactions using React DnD. Managed application state using Zustand. Built animations and UI transitions using Framer Motion. Structured scalable component architecture for learning flows.",
+      "events": "Events Platform",
+      "eventsDesc": "Built fullstack event management platform using Next.js App Router. Integrated MongoDB + Mongoose for database modeling. Implemented authentication using Clerk. Added payment processing using Stripe API. Built UI using shadcn/ui and Radix UI components.",
+      "healthycare": "HealthyCare – Patient Management System",
+      "healthycareDesc": "Developed healthcare workflow system (appointments, patient records). Integrated Appwrite backend services and authentication. Built structured forms using React Hook Form + Zod. Designed responsive UI using Tailwind CSS and shadcn/ui."
+    },
+    "professionalHeading": "Professional Experience",
+    "professional": {
+      "freelance": "Freelance Work, Part-time Roles & Volunteer Activities",
+      "freelanceDesc": "Structured transition period combining self-directed software development with diverse work and volunteering experience. Performed part-time roles (tutoring, service-based work), strengthening responsibility, communication, and adaptability. Engaged in animal rescue volunteering, supporting care, coordination, and assistance activities. Maintained continuous self-learning in frontend development (React, Next.js, modern JS ecosystem). Transitioned into software engineering through hands-on project development and real implementations.",
+      "manager": "Chief Manager — VIP Residential Complex",
+      "managerDesc": "Managed operational workflows in a high-responsibility environment. Coordinated internal processes and service operations. Ensured system stability and issue resolution. Improved operational efficiency and daily execution processes.",
+      "principal": "School Principal — Secondary School",
+      "principalDesc": "Led full institutional operations and staff coordination. Structured administrative workflows and planning systems. Improved organizational efficiency and execution processes. Managed institutional development and operational stability."
+    },
+    "educationHeading": "Education",
+    "education": "Master's Degree — Literature & English Language",
+    "languagesHeading": "Languages",
+    "languages": {
+      "ukrainian": "Ukrainian: Native",
+      "russian": "Russian: Native",
+      "english": "English: Pre-Intermediate A2+ (Technical reading, documentation, basic communication)"
+    },
+    "strengthsHeading": "Key Strengths",
+    "strengths": [
+      "Production-style frontend development mindset.",
+      "Strong component architecture and UI system thinking.",
+      "Fast self-learning through real project execution.",
+      "High ownership and structured problem-solving.",
+      "Ability to bridge frontend and fullstack workflows."
+    ]
+  },
+  "ua": {
+    "city": "Kиїв",
+    "country": "Україна",
+    "name": "Ірина Вишняк",
+    "role": "Молодший Frontend Розробник",
+    "summaryHeading": "Резюме",
+    "summaryText": "Молодший Frontend Розробник з практичним досвідом створення веб- та мобільних додатків у виробничому стилі з використанням React, Next.js та сучасних frontend екосистем. Володію навичками компонентної архітектури, інтеграції REST API та розробки масштабованих UI з використанням Tailwind CSS, shadcn/ui та Radix UI. Сильний фон структурованого виконання та власності, розвинений через попередні лідерські ролі та практичні проекти інженерії програмного забезпечення.",
+    "skillsHeading": "Технічні Навички",
+    "skills": {
+      "frontend": "Frontend: React, Next.js (App Router), JavaScript (ES6+), TypeScript (базовий)",
+      "ui": "UI / Стилізація: Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, Адаптивний Дизайн",
+      "state": "Управління Станом та Формами: Zustand, React Hook Form, Zod",
+      "backend": "Backend (Базовий): Node.js, MongoDB, Mongoose, Firebase (Firestore), Appwrite",
+      "apis": "APIs та Сервіси: REST API, Stripe, Clerk Authentication",
+      "maps": "Карти та Геолокація: Leaflet, React-Leaflet, TomTom Web SDK",
+      "tools": "Інструменти: Git, GitHub, Vite, ESLint, Prettier, Cypress (базовий), Vitest (базовий)"
+    },
+    "projectsHeading": "Досвід Проектів",
+    "projects": {
+      "selfDirected": "Frontend / Fullstack Розробник (Самостійні Проекти)",
+      "selfDirectedDesc": "Створив та розгорнув 4+ додатків у виробничому стилі з використанням React, Next.js та сучасних frontend стеків. Розробив масштабовану компонентну архітектуру з використанням повторюваних UI систем (shadcn/ui, Radix UI патерни). Розробив повнофункціональні додатки з аутентифікацією, CRUD операціями та динамічною маршрутизацією. Інтегрував backend сервіси та бази даних, включаючи Firebase, MongoDB та Appwrite. Реалізував інтеграції REST API та структурований клієнтський потік даних. Створив адаптивні, mobile-first UI системи, забезпечуючи сумісність між пристроями. Реалізував розширені функції, включаючи карти (Leaflet + TomTom), платежі (Stripe) та валідацію форм (Zod).",
+      "realEstate": "Платформа Нерухомості",
+      "realEstateDesc": "Створив додаток для перегляду нерухомості з інтеграцією Firebase Firestore backend. Реалізував інтерактивні карти геолокації з використанням Leaflet та TomTom APIs. Розробив повторювані UI компоненти відповідно до сучасних патернів shadcn/ui. Додав галереї зображень та перегляд медіа з використанням Swiper. Розробив повністю адаптивний UI, оптимізований для мобільних та десктопних пристроїв.",
+      "littleLingo": "LittleLingo – Мобільний Додаток для Навчання",
+      "littleLingoDesc": "Розробив кросплатформний мобільний додаток (iOS / Android). Реалізував взаємодії drag-and-drop з використанням React DnD. Керував станом додатку з використанням Zustand. Створив анімації та UI переходи з використанням Framer Motion. Структурував масштабовану компонентну архітектуру для навчальних потоків.",
+      "events": "Платформа Подій",
+      "eventsDesc": "Створив fullstack платформу управління подіями з використанням Next.js App Router. Інтегрував MongoDB + Mongoose для моделювання бази даних. Реалізував аутентифікацію з використанням Clerk. Додав обробку платежів з використанням Stripe API. Створив UI з використанням shadcn/ui та Radix UI компонентів.",
+      "healthycare": "HealthyCare – Система Управління Пацієнтами",
+      "healthycareDesc": "Розробив систему робочих процесів охорони здоров'я (прийоми, записи пацієнтів). Інтегрував Appwrite backend сервіси та аутентифікацію. Створив структуровані форми з використанням React Hook Form + Zod. Розробив адаптивний UI з використанням Tailwind CSS та shadcn/ui."
+    },
+    "professionalHeading": "Професійний Досвід",
+    "professional": {
+      "freelance": "Фріланс Робота, Напівставки та Волонтерська Діяльність",
+      "freelanceDesc": "Структурований перехідний період, що поєднує самостійну розробку програмного забезпечення з різноманітним досвідом роботи та волонтерства. Виконував напівставки (репетиторство, сервісна робота), зміцнюючи відповідальність, спілкування та адаптивність. Займався волонтерством з порятунку тварин, підтримуючи догляд, координацію та допоміжні заходи. Підтримував безперервне самовчіння у frontend розробці (React, Next.js, сучасна JS екосистема). Перейшов до інженерії програмного забезпечення через практичну розробку проектів та реальні реалізації.",
+      "manager": "Головний Менеджер — VIP Житловий Комплекс",
+      "managerDesc": "Керував операційними робочими процесами у середовищі високої відповідальності. Координував внутрішні процеси та операції сервісу. Забезпечував стабільність системи та вирішення проблем. Покращив операційну ефективність та процеси щоденного виконання.",
+      "principal": "Директор Школи — Середня Школа",
+      "principalDesc": "Керував повними інституційними операціями та координацією персоналу. Структурував адміністративні робочі процеси та системи планування. Покращив організаційну ефективність та процеси виконання. Керував розвитком інституції та операційною стабільністю."
+    },
+    "educationHeading": "Освіта",
+    "education": "Магістр — Література та Англійська Мова",
+    "languagesHeading": "Мови",
+    "languages": {
+      "ukrainian": "Українська: Рідна",
+      "russian": "Російська: Рідна",
+      "english": "Англійська: Pre-Intermediate A2+ (Технічне читання, документація, базове спілкування)"
+    },
+    "strengthsHeading": "Ключові Сильні Сторони",
+    "strengths": [
+      "Мислення у стилі виробничої frontend розробки.",
+      "Сильна компонентна архітектура та мислення UI систем.",
+      "Швидке самовчіння через виконання реальних проектів.",
+      "Висока власність та структуроване вирішення проблем.",
+      "Здатність поєднувати frontend та fullstack робочі процеси."
+    ]
+  }
+}
