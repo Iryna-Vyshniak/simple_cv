@@ -23,6 +23,7 @@
     />
     <link rel="stylesheet" href="styles/index.css" />
   </head>
+
   <body>
     <main>
       <!-- ATS-Safe Header with Microdata -->
@@ -30,6 +31,25 @@
         <div class="header-top">
           <h1 itemprop="name">Iryna Vyshniak</h1>
           <p class="role-title" itemprop="jobTitle">Junior Frontend Developer</p>
+        </div>
+
+        <div class="language-switcher">
+          <button
+            id="lang-en"
+            class="lang-btn active"
+            aria-label="Switch to English"
+            aria-pressed="true"
+          >
+            EN
+          </button>
+          <button
+            id="lang-ua"
+            class="lang-btn"
+            aria-label="Switch to Ukrainian"
+            aria-pressed="false"
+          >
+            UA
+          </button>
         </div>
 
         <div class="header-bottom">
@@ -342,5 +362,6 @@
         </ul>
       </section>
     </main>
+    <script src="script/script.js"></script>
   </body>
 </html>
